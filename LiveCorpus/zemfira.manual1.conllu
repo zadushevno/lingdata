@@ -355,7 +355,7 @@
 352	самый	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#157.873#158.195
 353	священный	священный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#158.195#158.517
 354	праздник	праздник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#158.517#158.839
-355	татар	татар	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@ztr1976f#@ztr1976f#158.839#159.161
+355	татар	татарин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@ztr1976f#@ztr1976f#158.839#159.161
 356	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#159.161#159.483
 357	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#159.483#159.805
 358	мм	мм	INTJ	_	_	_	_	_	words@ztr1976f#@ztr1976f#163.674#164.004
