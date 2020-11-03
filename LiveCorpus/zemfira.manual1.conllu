@@ -296,7 +296,7 @@
 293	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ztr1976f#@ztr1976f#137.2#137.428
 294	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ztr1976f#@ztr1976f#137.428#137.656
 295	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#137.656#137.884
-296	мулла	мулла	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#137.884#138.112
+296	мулла	мулла	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ztr1976f#@ztr1976f#137.884#138.112
 297	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#138.112#138.34
 298	/	/	PUNCT	_	_	_	_	_	words@ztr1976f#@ztr1976f#138.34#138.582
 299	да	да	PART	_	Polarity=Pos	_	_	_	words@ztr1976f#@ztr1976f#140.249#140.501
